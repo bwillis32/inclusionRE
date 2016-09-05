@@ -1,0 +1,758 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "j7yn-nvq9",
+      "name" : "DOF: Summary of Neighborhood Sales in Queens for Class 1-, 2- and 3-Family homes - 2006",
+      "attribution" : "Department of Finance (DOF)",
+      "averageRating" : 0,
+      "category" : "Housing & Development",
+      "createdAt" : 1317848069,
+      "description" : "The Department of Finance (DOF) maintains records for all property sales in New York City, including sales of family homes in each borough. This list is a summary of neighborhood sales for Class 1-, 2- and 3-Family homes in Queens in 2006.\r\n\r\nThis list includes all sales of 1-, 2-, and 3-Family Homes' from January 1st, 2006 to December 31, 2006, whose sale price is equal to or more than $150,000.  The Building Class Category for Sales is based on the Building Class at the time of the sale.",
+      "displayType" : "table",
+      "downloadCount" : 589,
+      "indexUpdatedAt" : 1414260076,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 4208713,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1372266232,
+      "publicationGroup" : 243289,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1372266229,
+      "rowsUpdatedBy" : "uurm-7z6x",
+      "tableId" : 942430,
+      "totalTimesRated" : 0,
+      "viewCount" : 240,
+      "viewLastModified" : 1409937466,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : 77009293,
+        "name" : "NEIGHBORHOOD",
+        "dataTypeName" : "text",
+        "fieldName" : "neighborhood",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1554036,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 162,
+          "largest" : "WOODSIDE                 ",
+          "null" : 0,
+          "top" : [ {
+            "item" : "OAKLAND GARDENS          ",
+            "count" : 20
+          }, {
+            "item" : "OZONE PARK               ",
+            "count" : 19
+          }, {
+            "item" : "QUEENS VILLAGE           ",
+            "count" : 18
+          }, {
+            "item" : "REGO PARK                ",
+            "count" : 17
+          }, {
+            "item" : "RICHMOND HILL            ",
+            "count" : 16
+          }, {
+            "item" : "RIDGEWOOD                ",
+            "count" : 15
+          }, {
+            "item" : "ROCKAWAY PARK            ",
+            "count" : 14
+          }, {
+            "item" : "ROSEDALE                 ",
+            "count" : 13
+          }, {
+            "item" : "SO. JAMAICA-BAISLEY PARK ",
+            "count" : 12
+          }, {
+            "item" : "SOUTH JAMAICA            ",
+            "count" : 11
+          }, {
+            "item" : "SOUTH OZONE PARK         ",
+            "count" : 10
+          }, {
+            "item" : "SPRINGFIELD GARDENS      ",
+            "count" : 9
+          }, {
+            "item" : "ST. ALBANS               ",
+            "count" : 8
+          }, {
+            "item" : "SUNNYSIDE                ",
+            "count" : 7
+          }, {
+            "item" : "WHITESTONE               ",
+            "count" : 6
+          }, {
+            "item" : "WOODHAVEN                ",
+            "count" : 5
+          }, {
+            "item" : "WOODSIDE                 ",
+            "count" : 4
+          } ],
+          "smallest" : "AIRPORT LA GUARDIA       "
+        },
+        "format" : { }
+      }, {
+        "id" : 77009294,
+        "name" : "TYPE OF HOME",
+        "dataTypeName" : "text",
+        "fieldName" : "type_of_home",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1554037,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 162,
+          "largest" : "03 THREE FAMILY HOMES                      ",
+          "null" : 0,
+          "top" : [ {
+            "item" : "01 ONE FAMILY HOMES                        ",
+            "count" : 20
+          }, {
+            "item" : "03 THREE FAMILY HOMES                      ",
+            "count" : 19
+          }, {
+            "item" : "02 TWO FAMILY HOMES                        ",
+            "count" : 18
+          } ],
+          "smallest" : "01 ONE FAMILY HOMES                        "
+        },
+        "format" : { }
+      }, {
+        "id" : 77009295,
+        "name" : "NUMBER OF SALES",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_sales",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1554038,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 162,
+          "average" : "98.96913580246914",
+          "largest" : "598",
+          "null" : 0,
+          "top" : [ {
+            "item" : "2",
+            "count" : 20
+          }, {
+            "item" : "1",
+            "count" : 19
+          }, {
+            "item" : "27",
+            "count" : 18
+          }, {
+            "item" : "20",
+            "count" : 17
+          }, {
+            "item" : "22",
+            "count" : 16
+          }, {
+            "item" : "6",
+            "count" : 15
+          }, {
+            "item" : "5",
+            "count" : 14
+          }, {
+            "item" : "8",
+            "count" : 13
+          }, {
+            "item" : "15",
+            "count" : 12
+          }, {
+            "item" : "13",
+            "count" : 11
+          }, {
+            "item" : "41",
+            "count" : 10
+          }, {
+            "item" : "405",
+            "count" : 9
+          }, {
+            "item" : "293",
+            "count" : 8
+          }, {
+            "item" : "392",
+            "count" : 7
+          }, {
+            "item" : "288",
+            "count" : 6
+          }, {
+            "item" : "513",
+            "count" : 5
+          }, {
+            "item" : "193",
+            "count" : 4
+          }, {
+            "item" : "9",
+            "count" : 3
+          }, {
+            "item" : "24",
+            "count" : 2
+          }, {
+            "item" : "49",
+            "count" : 1
+          } ],
+          "smallest" : "1",
+          "sum" : "16033"
+        },
+        "format" : { }
+      }, {
+        "id" : 77009296,
+        "name" : "LOWEST SALE PRICE",
+        "dataTypeName" : "money",
+        "fieldName" : "lowest_sale_price",
+        "position" : 5,
+        "renderTypeName" : "money",
+        "tableColumnId" : 1554039,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 162,
+          "average" : "315848.3641975309",
+          "largest" : "845000",
+          "null" : 0,
+          "top" : [ {
+            "item" : "150000",
+            "count" : 20
+          }, {
+            "item" : "155000",
+            "count" : 19
+          }, {
+            "item" : "300000",
+            "count" : 18
+          }, {
+            "item" : "200000",
+            "count" : 17
+          }, {
+            "item" : "175000",
+            "count" : 16
+          }, {
+            "item" : "250000",
+            "count" : 15
+          }, {
+            "item" : "170000",
+            "count" : 14
+          }, {
+            "item" : "650000",
+            "count" : 13
+          }, {
+            "item" : "400000",
+            "count" : 12
+          }, {
+            "item" : "330000",
+            "count" : 11
+          }, {
+            "item" : "219000",
+            "count" : 10
+          }, {
+            "item" : "189100",
+            "count" : 9
+          }, {
+            "item" : "170423",
+            "count" : 8
+          } ],
+          "smallest" : "150000",
+          "sum" : "51167435"
+        },
+        "format" : { }
+      }, {
+        "id" : 77009297,
+        "name" : "AVERAGE SALE PRICE",
+        "dataTypeName" : "money",
+        "fieldName" : "average_sale_price",
+        "position" : 6,
+        "renderTypeName" : "money",
+        "tableColumnId" : 1554040,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 162,
+          "average" : "649746.8580246914",
+          "largest" : "1044933",
+          "null" : 0,
+          "top" : [ {
+            "item" : "488260",
+            "count" : 20
+          }, {
+            "item" : "609306",
+            "count" : 19
+          }, {
+            "item" : "723667",
+            "count" : 18
+          }, {
+            "item" : "429711",
+            "count" : 17
+          }, {
+            "item" : "595582",
+            "count" : 16
+          }, {
+            "item" : "686800",
+            "count" : 15
+          }, {
+            "item" : "446188",
+            "count" : 14
+          }, {
+            "item" : "599770",
+            "count" : 13
+          }, {
+            "item" : "565533",
+            "count" : 12
+          }, {
+            "item" : "454084",
+            "count" : 11
+          }, {
+            "item" : "588396",
+            "count" : 10
+          }, {
+            "item" : "528871",
+            "count" : 9
+          }, {
+            "item" : "384426",
+            "count" : 8
+          }, {
+            "item" : "539358",
+            "count" : 7
+          }, {
+            "item" : "451000",
+            "count" : 6
+          }, {
+            "item" : "400398",
+            "count" : 5
+          }, {
+            "item" : "520177",
+            "count" : 4
+          }, {
+            "item" : "563950",
+            "count" : 3
+          }, {
+            "item" : "461170",
+            "count" : 2
+          }, {
+            "item" : "597374",
+            "count" : 1
+          } ],
+          "smallest" : "275000",
+          "sum" : "105258991"
+        },
+        "format" : { }
+      }, {
+        "id" : 77009298,
+        "name" : "MEDIAN SALE PRICE",
+        "dataTypeName" : "money",
+        "fieldName" : "median_sale_price",
+        "position" : 7,
+        "renderTypeName" : "money",
+        "tableColumnId" : 1554041,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 162,
+          "average" : "644752.0061728395",
+          "largest" : "960000",
+          "null" : 0,
+          "top" : [ {
+            "item" : "650000",
+            "count" : 20
+          }, {
+            "item" : "865000",
+            "count" : 19
+          }, {
+            "item" : "530000",
+            "count" : 18
+          }, {
+            "item" : "442000",
+            "count" : 17
+          }, {
+            "item" : "607350",
+            "count" : 16
+          }, {
+            "item" : "680000",
+            "count" : 15
+          }, {
+            "item" : "396000",
+            "count" : 14
+          }, {
+            "item" : "594300",
+            "count" : 13
+          }, {
+            "item" : "660000",
+            "count" : 12
+          }, {
+            "item" : "445000",
+            "count" : 11
+          }, {
+            "item" : "610000",
+            "count" : 10
+          }, {
+            "item" : "375000",
+            "count" : 9
+          }, {
+            "item" : "566750",
+            "count" : 8
+          }, {
+            "item" : "451000",
+            "count" : 7
+          }, {
+            "item" : "390000",
+            "count" : 6
+          }, {
+            "item" : "550000",
+            "count" : 5
+          }, {
+            "item" : "590000",
+            "count" : 4
+          }, {
+            "item" : "450500",
+            "count" : 3
+          }, {
+            "item" : "605000",
+            "count" : 2
+          }, {
+            "item" : "604000",
+            "count" : 1
+          } ],
+          "smallest" : "275000",
+          "sum" : "104449825"
+        },
+        "format" : { }
+      }, {
+        "id" : 77009299,
+        "name" : "HIGHEST SALE PRICE",
+        "dataTypeName" : "money",
+        "fieldName" : "highest_sale_price",
+        "position" : 8,
+        "renderTypeName" : "money",
+        "tableColumnId" : 1554042,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 162,
+          "average" : "1182444.302469136",
+          "largest" : "9000000",
+          "null" : 0,
+          "top" : [ {
+            "item" : "850000",
+            "count" : 20
+          }, {
+            "item" : "800000",
+            "count" : 19
+          }, {
+            "item" : "1200000",
+            "count" : 18
+          }, {
+            "item" : "1250000",
+            "count" : 17
+          }, {
+            "item" : "1080000",
+            "count" : 16
+          }, {
+            "item" : "1100000",
+            "count" : 15
+          }, {
+            "item" : "767500",
+            "count" : 14
+          }, {
+            "item" : "940000",
+            "count" : 13
+          }, {
+            "item" : "750000",
+            "count" : 12
+          }, {
+            "item" : "790000",
+            "count" : 11
+          }, {
+            "item" : "815000",
+            "count" : 10
+          }, {
+            "item" : "680000",
+            "count" : 9
+          }, {
+            "item" : "785000",
+            "count" : 8
+          }, {
+            "item" : "890000",
+            "count" : 7
+          }, {
+            "item" : "545000",
+            "count" : 6
+          }, {
+            "item" : "840000",
+            "count" : 5
+          }, {
+            "item" : "795000",
+            "count" : 4
+          }, {
+            "item" : "835000",
+            "count" : 3
+          }, {
+            "item" : "985000",
+            "count" : 2
+          }, {
+            "item" : "845000",
+            "count" : 1
+          } ],
+          "smallest" : "275000",
+          "sum" : "191555977"
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Update" : {
+            "Update Frequency" : "Historical Data"
+          },
+          "Dataset Information" : {
+            "Agency" : "Department of Finance (DOF)"
+          }
+        },
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "5fuc-pqz2",
+        "displayName" : "NYC OpenData",
+        "roleName" : "administrator",
+        "screenName" : "NYC OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story", "view_all_dataset_status_logs", "use_data_connectors" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "k2fz-tf56",
+        "displayName" : "Gary A",
+        "screenName" : "Gary A"
+      },
+      "tags" : [ "family homes", "class-1", "class-2", "class-3", "borough", "queens" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "2FBF0D67-74FF-4152-A3DF-A8EDEC9FD7A6", 1, 1317822876, "392753", 1317822876, "392753", "{\n}", "AIRPORT LA GUARDIA       ", "01 ONE FAMILY HOMES                        ", "2", "475000", "488000", "488000", "501000" ]
+, [ 2, "237C7F6F-AE05-40B8-98A7-DD90C3E99ECC", 2, 1317822876, "392753", 1317822876, "392753", "{\n}", "AIRPORT LA GUARDIA       ", "03 THREE FAMILY HOMES                      ", "1", "825000", "825000", "825000", "825000" ]
+, [ 3, "9715A48D-8D72-468B-BAD7-B88E87817F88", 3, 1317822876, "392753", 1317822876, "392753", "{\n}", "ARVERNE                  ", "01 ONE FAMILY HOMES                        ", "93", "150000", "316933", "335629", "600000" ]
+, [ 4, "B830EB99-07E9-45D7-8EE9-9FD45942177B", 4, 1317822876, "392753", 1317822876, "392753", "{\n}", "ARVERNE                  ", "02 TWO FAMILY HOMES                        ", "218", "155000", "472534", "484500", "700000" ]
+, [ 5, "65490CC9-FD5B-4F15-9613-8B5661F63632", 5, 1317822876, "392753", 1317822876, "392753", "{\n}", "ARVERNE                  ", "03 THREE FAMILY HOMES                      ", "24", "355000", "511327", "514000", "690000" ]
+, [ 6, "EAA53AD5-4BD0-44DA-B55B-5E3047070AE5", 6, 1317822876, "392753", 1317822876, "392753", "{\n}", "ASTORIA                  ", "01 ONE FAMILY HOMES                        ", "80", "260000", "598629", "567500", "1375000" ]
+, [ 7, "272708E1-8C4F-4BC0-80DF-794C7A899F19", 7, 1317822876, "392753", 1317822876, "392753", "{\n}", "ASTORIA                  ", "02 TWO FAMILY HOMES                        ", "172", "227500", "750228", "749250", "1650000" ]
+, [ 8, "C505976D-4A90-4098-804B-A0755CC1ED89", 8, 1317822876, "392753", 1317822876, "392753", "{\n}", "ASTORIA                  ", "03 THREE FAMILY HOMES                      ", "81", "200000", "822494", "830000", "1300000" ]
+, [ 9, "732A1FA6-DC63-456A-95E5-7596406608B8", 9, 1317822876, "392753", 1317822876, "392753", "{\n}", "BAYSIDE                  ", "01 ONE FAMILY HOMES                        ", "312", "150000", "692745", "652500", "2500000" ]
+, [ 10, "02AAF6AA-833B-45A9-90E3-F09007193707", 10, 1317822876, "392753", 1317822876, "392753", "{\n}", "BAYSIDE                  ", "02 TWO FAMILY HOMES                        ", "136", "194321", "772739", "770000", "1602000" ]
+, [ 11, "90223C40-E33A-4A5B-B583-95159192D667", 11, 1317822876, "392753", 1317822876, "392753", "{\n}", "BAYSIDE                  ", "03 THREE FAMILY HOMES                      ", "21", "160000", "772780", "850000", "1058000" ]
+, [ 12, "61F0C9F2-650D-4170-8B47-F7A1EBBA8827", 12, 1317822876, "392753", 1317822876, "392753", "{\n}", "BEECHHURST               ", "01 ONE FAMILY HOMES                        ", "38", "304435", "882255", "888000", "1832850" ]
+, [ 13, "04DEAC56-B153-435E-913E-78958709405C", 13, 1317822876, "392753", 1317822876, "392753", "{\n}", "BEECHHURST               ", "02 TWO FAMILY HOMES                        ", "2", "760000", "888800", "888800", "1017600" ]
+, [ 14, "32CD8A3B-D728-4F2C-A9B1-95113955A7D3", 14, 1317822876, "392753", 1317822876, "392753", "{\n}", "BELLE HARBOR             ", "01 ONE FAMILY HOMES                        ", "27", "305000", "970241", "800000", "3400000" ]
+, [ 15, "1DB6C5C8-9166-4750-9F43-C14269577648", 15, 1317822876, "392753", 1317822876, "392753", "{\n}", "BELLE HARBOR             ", "02 TWO FAMILY HOMES                        ", "27", "550000", "840322", "829000", "1400500" ]
+, [ 16, "05C2EBC2-8C60-4E60-9A37-444E0E93BC08", 16, 1317822876, "392753", 1317822876, "392753", "{\n}", "BELLE HARBOR             ", "03 THREE FAMILY HOMES                      ", "2", "680000", "765000", "765000", "850000" ]
+, [ 17, "8DD370E1-7DCC-4990-8839-F09583A8F573", 17, 1317822876, "392753", 1317822876, "392753", "{\n}", "BELLEROSE                ", "01 ONE FAMILY HOMES                        ", "139", "345000", "537205", "535000", "850000" ]
+, [ 18, "2B16371F-4527-47DA-A34C-7825F1CF9B71", 18, 1317822876, "392753", 1317822876, "392753", "{\n}", "BELLEROSE                ", "02 TWO FAMILY HOMES                        ", "33", "397500", "603041", "580000", "900000" ]
+, [ 19, "7CBAECD4-CD45-4B65-A6C1-9FBE5B61B106", 19, 1317822876, "392753", 1317822876, "392753", "{\n}", "BRIARWOOD                ", "01 ONE FAMILY HOMES                        ", "19", "400500", "661709", "600000", "1908000" ]
+, [ 20, "882AB206-99B8-4D98-9975-831197EB3E1F", 20, 1317822876, "392753", 1317822876, "392753", "{\n}", "BRIARWOOD                ", "02 TWO FAMILY HOMES                        ", "11", "565873", "700219", "683000", "860000" ]
+, [ 21, "41C6A25B-D0C2-42AE-BB0B-33BA8C69ADE1", 21, 1317822876, "392753", 1317822876, "392753", "{\n}", "BRIARWOOD                ", "03 THREE FAMILY HOMES                      ", "6", "625000", "722667", "752500", "800000" ]
+, [ 22, "3B75DC91-F559-48E8-A3C5-E41E60612B1C", 22, 1317822876, "392753", 1317822876, "392753", "{\n}", "BROAD CHANNEL            ", "01 ONE FAMILY HOMES                        ", "17", "182396", "330988", "301000", "595000" ]
+, [ 23, "80FC122D-5F46-4240-828D-C86CCB9F6F09", 23, 1317822876, "392753", 1317822876, "392753", "{\n}", "BROAD CHANNEL            ", "02 TWO FAMILY HOMES                        ", "1", "560000", "560000", "560000", "560000" ]
+, [ 24, "99375DC8-A59A-4D11-90F8-B4B7C5AEDE25", 24, 1317822876, "392753", 1317822876, "392753", "{\n}", "CAMBRIA HEIGHTS          ", "01 ONE FAMILY HOMES                        ", "155", "155000", "438167", "449000", "629000" ]
+, [ 25, "0C5F9134-E527-48DD-BFA0-C4803D1331A7", 25, 1317822876, "392753", 1317822876, "392753", "{\n}", "CAMBRIA HEIGHTS          ", "02 TWO FAMILY HOMES                        ", "18", "343000", "503572", "515000", "600000" ]
+, [ 26, "89B2A43F-2755-4393-965F-2B74B8EE216E", 26, 1317822876, "392753", 1317822876, "392753", "{\n}", "COLLEGE POINT            ", "01 ONE FAMILY HOMES                        ", "96", "150000", "539937", "532500", "900000" ]
+, [ 27, "BF0FCAB1-36C0-4C91-8BCB-AEC2BFFFA5E4", 27, 1317822876, "392753", 1317822876, "392753", "{\n}", "COLLEGE POINT            ", "02 TWO FAMILY HOMES                        ", "157", "300000", "722584", "680000", "9000000" ]
+, [ 28, "69910E15-9F3E-4C21-BDA0-F5F78FC3EE21", 28, 1317822876, "392753", 1317822876, "392753", "{\n}", "COLLEGE POINT            ", "03 THREE FAMILY HOMES                      ", "24", "300000", "696921", "713750", "990000" ]
+, [ 29, "ACA98C43-7581-4FA9-B1DA-84CC41AD7C53", 29, 1317822876, "392753", 1317822876, "392753", "{\n}", "CORONA                   ", "01 ONE FAMILY HOMES                        ", "74", "350000", "567451", "543500", "1090000" ]
+, [ 30, "9D2E6337-6E50-4DE0-9DED-3B5724675859", 30, 1317822876, "392753", 1317822876, "392753", "{\n}", "CORONA                   ", "02 TWO FAMILY HOMES                        ", "235", "151413", "733525", "737000", "2930000" ]
+, [ 31, "5E124ED4-5666-4DAF-AA2E-0E1B4B06B69F", 31, 1317822876, "392753", 1317822876, "392753", "{\n}", "CORONA                   ", "03 THREE FAMILY HOMES                      ", "160", "150000", "810687", "850000", "1175000" ]
+, [ 32, "6B29392F-4D73-42D6-93E7-ADC9E39F3A74", 32, 1317822876, "392753", 1317822876, "392753", "{\n}", "DOUGLASTON               ", "01 ONE FAMILY HOMES                        ", "58", "240000", "966871", "812500", "2600000" ]
+, [ 33, "DC485C4D-7559-49A1-B57B-C06C93EAC2DC", 33, 1317822876, "392753", 1317822876, "392753", "{\n}", "DOUGLASTON               ", "02 TWO FAMILY HOMES                        ", "13", "616875", "817357", "790000", "950000" ]
+, [ 34, "CA5D31D8-C43C-471D-A942-784B8F8C175F", 34, 1317822876, "392753", 1317822876, "392753", "{\n}", "DOUGLASTON               ", "03 THREE FAMILY HOMES                      ", "1", "290000", "290000", "290000", "290000" ]
+, [ 35, "F5651C3C-04A0-48D7-AB75-924BF604C83F", 35, 1317822876, "392753", 1317822876, "392753", "{\n}", "EAST ELMHURST            ", "01 ONE FAMILY HOMES                        ", "87", "204000", "566347", "557940", "1200000" ]
+, [ 36, "ED28F0F6-B57D-4B3C-954E-D71E5D3A9DFD", 36, 1317822876, "392753", 1317822876, "392753", "{\n}", "EAST ELMHURST            ", "02 TWO FAMILY HOMES                        ", "149", "191000", "712921", "735000", "985000" ]
+, [ 37, "536997E1-70B9-49A1-B88B-F88023AAB574", 37, 1317822876, "392753", 1317822876, "392753", "{\n}", "EAST ELMHURST            ", "03 THREE FAMILY HOMES                      ", "40", "350500", "809066", "820000", "1100000" ]
+, [ 38, "4167D7EA-9708-4309-ACB9-1C0817BFBA53", 38, 1317822876, "392753", 1317822876, "392753", "{\n}", "ELMHURST                 ", "01 ONE FAMILY HOMES                        ", "136", "225000", "578064", "557500", "1189900" ]
+, [ 39, "2F987116-176A-4DB4-91CE-34FB2A23E13B", 39, 1317822876, "392753", 1317822876, "392753", "{\n}", "ELMHURST                 ", "02 TWO FAMILY HOMES                        ", "145", "212666", "686810", "690000", "1150000" ]
+, [ 40, "C145F245-FE92-419B-8AB1-660AA2554CC5", 40, 1317822876, "392753", 1317822876, "392753", "{\n}", "ELMHURST                 ", "03 THREE FAMILY HOMES                      ", "109", "150000", "821934", "840000", "1325000" ]
+, [ 41, "6B0F3D75-DD83-429E-90D7-5A397075AB15", 41, 1317822876, "392753", 1317822876, "392753", "{\n}", "FAR ROCKAWAY             ", "01 ONE FAMILY HOMES                        ", "128", "182500", "478014", "440000", "1210000" ]
+, [ 42, "C7B1DAFA-F069-4020-92EC-B0173E4085BA", 42, 1317822876, "392753", 1317822876, "392753", "{\n}", "FAR ROCKAWAY             ", "02 TWO FAMILY HOMES                        ", "209", "170000", "508832", "525000", "795000" ]
+, [ 43, "F8C7E052-97D6-4B61-B5AF-DE4ECBE62D8F", 43, 1317822876, "392753", 1317822876, "392753", "{\n}", "FAR ROCKAWAY             ", "03 THREE FAMILY HOMES                      ", "71", "317500", "626345", "650000", "930000" ]
+, [ 44, "3C11BABC-1CD2-4C35-A573-48F4FFA2178F", 44, 1317822876, "392753", 1317822876, "392753", "{\n}", "FLORAL PARK              ", "01 ONE FAMILY HOMES                        ", "132", "375000", "559340", "546500", "885000" ]
+, [ 45, "7DDD7378-75A1-469D-B332-73F232F542B7", 45, 1317822876, "392753", 1317822876, "392753", "{\n}", "FLORAL PARK              ", "02 TWO FAMILY HOMES                        ", "5", "475000", "607500", "630000", "700000" ]
+, [ 46, "29B00E46-C079-4B31-8F61-ED1CDCD1A8B1", 46, 1317822876, "392753", 1317822876, "392753", "{\n}", "FLORAL PARK              ", "03 THREE FAMILY HOMES                      ", "1", "275000", "275000", "275000", "275000" ]
+, [ 47, "386EED5A-3482-4824-8E9F-3F42847DB9F2", 47, 1317822876, "392753", 1317822876, "392753", "{\n}", "FLUSHING-NORTH           ", "01 ONE FAMILY HOMES                        ", "564", "170000", "660272", "625000", "3580000" ]
+, [ 48, "85A84823-0BF6-42DB-BB75-65DDCFAB0970", 48, 1317822876, "392753", 1317822876, "392753", "{\n}", "FLUSHING-NORTH           ", "02 TWO FAMILY HOMES                        ", "296", "177000", "737016", "742830", "1480000" ]
+, [ 49, "32252477-A81A-4851-B299-CE8021CED931", 49, 1317822876, "392753", 1317822876, "392753", "{\n}", "FLUSHING-NORTH           ", "03 THREE FAMILY HOMES                      ", "61", "189494", "810007", "835000", "1221900" ]
+, [ 50, "69051B4C-7BD2-4D16-AE9E-71BC10ADF425", 50, 1317822876, "392753", 1317822876, "392753", "{\n}", "FLUSHING-SOUTH           ", "01 ONE FAMILY HOMES                        ", "232", "178050", "604336", "560000", "2100000" ]
+, [ 51, "0E4678CD-C09B-40DB-BEF9-21360098E163", 51, 1317822876, "392753", 1317822876, "392753", "{\n}", "FLUSHING-SOUTH           ", "02 TWO FAMILY HOMES                        ", "69", "338000", "691274", "685000", "1200000" ]
+, [ 52, "4D965EEA-32EE-49B5-8724-AB0118956A3C", 52, 1317822876, "392753", 1317822876, "392753", "{\n}", "FLUSHING-SOUTH           ", "03 THREE FAMILY HOMES                      ", "11", "325000", "761547", "760000", "987020" ]
+, [ 53, "688E696E-46FA-4499-BCB1-76D7BA071A90", 53, 1317822876, "392753", 1317822876, "392753", "{\n}", "FOREST HILLS             ", "01 ONE FAMILY HOMES                        ", "153", "184824", "902347", "730000", "3400000" ]
+, [ 54, "C942ECBE-D695-4424-A13A-E1EF199E8CF3", 54, 1317822876, "392753", 1317822876, "392753", "{\n}", "FOREST HILLS             ", "02 TWO FAMILY HOMES                        ", "20", "300000", "747495", "714500", "1600000" ]
+, [ 55, "A21D1123-D430-4B2D-BEF0-5B5C925EF5DB", 55, 1317822876, "392753", 1317822876, "392753", "{\n}", "FOREST HILLS             ", "03 THREE FAMILY HOMES                      ", "2", "845000", "847500", "847500", "850000" ]
+, [ 56, "0C2E1623-9754-47F1-90D7-B81D8A143418", 56, 1317822876, "392753", 1317822876, "392753", "{\n}", "FRESH MEADOWS            ", "01 ONE FAMILY HOMES                        ", "83", "345000", "671335", "678000", "1235000" ]
+, [ 57, "106EC33A-8E9D-48FB-85B1-C4BA0854784D", 57, 1317822876, "392753", 1317822876, "392753", "{\n}", "FRESH MEADOWS            ", "02 TWO FAMILY HOMES                        ", "24", "300000", "723146", "699000", "1055000" ]
+, [ 58, "2A782EC0-EDE3-491D-9E8A-FB1972CE7D90", 58, 1317822876, "392753", 1317822876, "392753", "{\n}", "GLEN OAKS                ", "01 ONE FAMILY HOMES                        ", "21", "285000", "525729", "525000", "699300" ]
+, [ 59, "DD25E74C-0C4D-4D9C-BDCB-C6284D438B48", 59, 1317822876, "392753", 1317822876, "392753", "{\n}", "GLEN OAKS                ", "02 TWO FAMILY HOMES                        ", "7", "305000", "679853", "629000", "1050000" ]
+, [ 60, "A6FF9425-0D9C-489B-ADDF-754CCBCC0410", 60, 1317822876, "392753", 1317822876, "392753", "{\n}", "GLENDALE                 ", "01 ONE FAMILY HOMES                        ", "81", "200000", "505505", "495000", "929000" ]
+, [ 61, "6B74FE89-90EF-4359-A660-4966B8EFFCFD", 61, 1317822876, "392753", 1317822876, "392753", "{\n}", "GLENDALE                 ", "02 TWO FAMILY HOMES                        ", "149", "180000", "588604", "592250", "992793" ]
+, [ 62, "C7878476-BDDB-4FC6-8FAB-FB5F2BAE1780", 62, 1317822876, "392753", 1317822876, "392753", "{\n}", "GLENDALE                 ", "03 THREE FAMILY HOMES                      ", "20", "360000", "736871", "750000", "934500" ]
+, [ 63, "65584D01-8500-4BC1-B2CF-F5B6EF43CF1E", 63, 1317822876, "392753", 1317822876, "392753", "{\n}", "HAMMELS                  ", "01 ONE FAMILY HOMES                        ", "18", "175000", "308040", "280000", "503500" ]
+, [ 64, "6FE324C4-E963-4E4A-AB51-02C590B5FD4B", 64, 1317822876, "392753", 1317822876, "392753", "{\n}", "HAMMELS                  ", "02 TWO FAMILY HOMES                        ", "40", "202000", "516672", "515133", "925000" ]
+, [ 65, "A267399E-F728-48BF-A48D-2EC3F3D56963", 65, 1317822876, "392753", 1317822876, "392753", "{\n}", "HAMMELS                  ", "03 THREE FAMILY HOMES                      ", "22", "431333", "629252", "664000", "780000" ]
+, [ 66, "FD9C8C86-00DA-486D-A917-ED1E5D43460A", 66, 1317822876, "392753", 1317822876, "392753", "{\n}", "HILLCREST                ", "01 ONE FAMILY HOMES                        ", "27", "325000", "605800", "593000", "1060900" ]
+, [ 67, "813CAD41-87AC-4B66-AC21-2B77C218B386", 67, 1317822876, "392753", 1317822876, "392753", "{\n}", "HILLCREST                ", "02 TWO FAMILY HOMES                        ", "6", "500000", "577833", "570000", "675000" ]
+, [ 68, "D89F3A1A-3A6C-4A40-9467-32BF1A47704D", 68, 1317822876, "392753", 1317822876, "392753", "{\n}", "HOLLIS                   ", "01 ONE FAMILY HOMES                        ", "337", "150000", "443549", "445000", "1170000" ]
+, [ 69, "49381534-56E2-46FD-87FE-A3729A682555", 69, 1317822876, "392753", 1317822876, "392753", "{\n}", "HOLLIS                   ", "02 TWO FAMILY HOMES                        ", "136", "150000", "547778", "571200", "800000" ]
+, [ 70, "C986CE75-D34B-4CA4-808F-BB7932C1EAC6", 70, 1317822876, "392753", 1317822876, "392753", "{\n}", "HOLLIS                   ", "03 THREE FAMILY HOMES                      ", "19", "605000", "790081", "810000", "970000" ]
+, [ 71, "57BEC714-9092-4BE0-9DED-EAE3D41466EE", 71, 1317822876, "392753", 1317822876, "392753", "{\n}", "HOLLIS HILLS             ", "01 ONE FAMILY HOMES                        ", "35", "555000", "731771", "708000", "907250" ]
+, [ 72, "43601BB5-E90E-406D-AEA6-DB13D49E073D", 72, 1317822876, "392753", 1317822876, "392753", "{\n}", "HOLLISWOOD               ", "01 ONE FAMILY HOMES                        ", "36", "380000", "820889", "762500", "1575000" ]
+, [ 73, "1A9679CE-9536-4334-9A75-4F9CAA162770", 73, 1317822876, "392753", 1317822876, "392753", "{\n}", "HOLLISWOOD               ", "02 TWO FAMILY HOMES                        ", "2", "710000", "850000", "850000", "990000" ]
+, [ 74, "E9D66903-19B4-4B4A-9136-5E7A27101B9E", 74, 1317822876, "392753", 1317822876, "392753", "{\n}", "HOLLISWOOD               ", "03 THREE FAMILY HOMES                      ", "2", "700000", "755000", "755000", "810000" ]
+, [ 75, "3CC7D221-2110-40AF-A3B3-E9AE40DA77F8", 75, 1317822876, "392753", 1317822876, "392753", "{\n}", "HOWARD BEACH             ", "01 ONE FAMILY HOMES                        ", "109", "220000", "626167", "640000", "1300000" ]
+, [ 76, "9905C6E3-AB89-4F10-B21F-E1982B3551CB", 76, 1317822876, "392753", 1317822876, "392753", "{\n}", "HOWARD BEACH             ", "02 TWO FAMILY HOMES                        ", "61", "200000", "646953", "670000", "884000" ]
+, [ 77, "E286E037-101A-494C-8893-EA865A9B439E", 77, 1317822876, "392753", 1317822876, "392753", "{\n}", "HOWARD BEACH             ", "03 THREE FAMILY HOMES                      ", "7", "485000", "705714", "730000", "825000" ]
+, [ 78, "A370B62B-CD17-4D6B-8CB8-DA5A24E117FF", 78, 1317822876, "392753", 1317822876, "392753", "{\n}", "JACKSON HEIGHTS          ", "01 ONE FAMILY HOMES                        ", "157", "150000", "587887", "585000", "999000" ]
+, [ 79, "15FDB8E7-F881-446E-92D1-BEF78C4DB7A1", 79, 1317822876, "392753", 1317822876, "392753", "{\n}", "JACKSON HEIGHTS          ", "02 TWO FAMILY HOMES                        ", "165", "150000", "698259", "720000", "1350000" ]
+, [ 80, "EB2C99B6-D327-4852-A45F-FF0D484BF511", 80, 1317822876, "392753", 1317822876, "392753", "{\n}", "JACKSON HEIGHTS          ", "03 THREE FAMILY HOMES                      ", "63", "175000", "816215", "810000", "1650000" ]
+, [ 81, "AF527E04-D6F3-4F9F-982A-99286A9B0DC5", 81, 1317822876, "392753", 1317822876, "392753", "{\n}", "JAMAICA                  ", "01 ONE FAMILY HOMES                        ", "68", "155000", "513633", "481500", "990000" ]
+, [ 82, "40DABAA8-36D0-470F-B4E0-88A72E6E1B0F", 82, 1317822876, "392753", 1317822876, "392753", "{\n}", "JAMAICA                  ", "02 TWO FAMILY HOMES                        ", "93", "156000", "640787", "650000", "1100000" ]
+, [ 83, "F90F790D-F156-4B4C-98C2-3B9345BF6750", 83, 1317822876, "392753", 1317822876, "392753", "{\n}", "JAMAICA                  ", "03 THREE FAMILY HOMES                      ", "13", "530000", "833174", "875000", "945000" ]
+, [ 84, "769D0E03-1659-4F71-8A62-8C3A9DED935D", 84, 1317822876, "392753", 1317822876, "392753", "{\n}", "JAMAICA BAY              ", "01 ONE FAMILY HOMES                        ", "5", "340000", "458000", "480000", "500000" ]
+, [ 85, "8D67331A-BD81-4EEA-A29B-ADEEDE602B6F", 85, 1317822876, "392753", 1317822876, "392753", "{\n}", "JAMAICA BAY              ", "02 TWO FAMILY HOMES                        ", "5", "509000", "588800", "550000", "700000" ]
+, [ 86, "AEDB64E8-B588-405C-A5A9-882F5B1890E5", 86, 1317822876, "392753", 1317822876, "392753", "{\n}", "JAMAICA ESTATES          ", "01 ONE FAMILY HOMES                        ", "59", "250000", "962043", "880000", "2225000" ]
+, [ 87, "BFDC6DC2-AD42-4490-ADD1-AA20415F7CC3", 87, 1317822876, "392753", 1317822876, "392753", "{\n}", "JAMAICA ESTATES          ", "02 TWO FAMILY HOMES                        ", "6", "580000", "805500", "865000", "893000" ]
+, [ 88, "EE4D03BF-B3F3-4773-AB2C-56D739408FF7", 88, 1317822876, "392753", 1317822876, "392753", "{\n}", "JAMAICA ESTATES          ", "03 THREE FAMILY HOMES                      ", "2", "700000", "848943", "848943", "997885" ]
+, [ 89, "A0C48D0D-80AE-4F66-A6DE-BFECCB925A4C", 89, 1317822876, "392753", 1317822876, "392753", "{\n}", "JAMAICA HILLS            ", "01 ONE FAMILY HOMES                        ", "43", "165592", "587184", "583000", "800000" ]
+, [ 90, "C02E87A4-5B99-4D12-BAD5-5B07FA83DAF6", 90, 1317822876, "392753", 1317822876, "392753", "{\n}", "JAMAICA HILLS            ", "02 TWO FAMILY HOMES                        ", "32", "550000", "703819", "695000", "900000" ]
+, [ 91, "6FF13467-702D-4EEF-BD66-B8C20F20129C", 91, 1317822876, "392753", 1317822876, "392753", "{\n}", "JAMAICA HILLS            ", "03 THREE FAMILY HOMES                      ", "8", "485000", "776250", "815000", "910000" ]
+, [ 92, "BC7CC34B-619F-4CFA-A316-C073F6E77962", 92, 1317822876, "392753", 1317822876, "392753", "{\n}", "KEW GARDENS              ", "01 ONE FAMILY HOMES                        ", "31", "340000", "764603", "738000", "1650000" ]
+, [ 93, "64D6C86E-2F3A-4CC7-AADC-0548B3515743", 93, 1317822876, "392753", 1317822876, "392753", "{\n}", "KEW GARDENS              ", "02 TWO FAMILY HOMES                        ", "21", "302000", "665771", "690000", "962500" ]
+, [ 94, "3E3A2218-A5A4-46F9-B565-8A4CEEBC381B", 94, 1317822876, "392753", 1317822876, "392753", "{\n}", "KEW GARDENS              ", "03 THREE FAMILY HOMES                      ", "8", "400000", "830250", "933500", "999999" ]
+, [ 95, "CF7E523B-8DD8-4F55-9F98-50BDB44D391F", 95, 1317822876, "392753", 1317822876, "392753", "{\n}", "LAURELTON                ", "01 ONE FAMILY HOMES                        ", "249", "156000", "430175", "440000", "690000" ]
+, [ 96, "6D95ECA8-B7C6-477B-8B7C-FA3EDA93D3FC", 96, 1317822876, "392753", 1317822876, "392753", "{\n}", "LAURELTON                ", "02 TWO FAMILY HOMES                        ", "92", "225000", "528396", "532500", "800000" ]
+, [ 97, "5CBBCB9A-A24B-4BFA-9109-D39B5F85DFDD", 97, 1317822876, "392753", 1317822876, "392753", "{\n}", "LAURELTON                ", "03 THREE FAMILY HOMES                      ", "5", "365000", "495328", "503000", "618000" ]
+, [ 98, "EEBE049D-29DE-4E51-8EC9-7C3C69E16E90", 98, 1317822876, "392753", 1317822876, "392753", "{\n}", "LITTLE NECK              ", "01 ONE FAMILY HOMES                        ", "111", "217500", "794049", "715000", "2575000" ]
+, [ 99, "3D0F07E6-8895-45AE-A93E-7660F8EE5539", 99, 1317822876, "392753", 1317822876, "392753", "{\n}", "LITTLE NECK              ", "02 TWO FAMILY HOMES                        ", "22", "280000", "841476", "824250", "1476462" ]
+, [ 100, "948F872B-F5F3-46C9-8579-A20FAD2A1ED8", 100, 1317822876, "392753", 1317822876, "392753", "{\n}", "LITTLE NECK              ", "03 THREE FAMILY HOMES                      ", "2", "795500", "952750", "952750", "1110000" ]
+, [ 101, "6B7C7289-41ED-4D01-A492-1F471B31CC8D", 101, 1317822876, "392753", 1317822876, "392753", "{\n}", "LONG ISLAND CITY         ", "01 ONE FAMILY HOMES                        ", "10", "300000", "576630", "530000", "1050000" ]
+, [ 102, "7074B077-4B16-47B2-B620-169B209C6433", 102, 1317822876, "392753", 1317822876, "392753", "{\n}", "LONG ISLAND CITY         ", "02 TWO FAMILY HOMES                        ", "35", "250000", "730271", "685000", "1625000" ]
+, [ 103, "64CD8F09-9AA5-4EBF-9B94-0C4322D4F6CC", 103, 1317822876, "392753", 1317822876, "392753", "{\n}", "LONG ISLAND CITY         ", "03 THREE FAMILY HOMES                      ", "15", "670000", "833800", "807500", "1200000" ]
+, [ 104, "CA91AC24-BE57-4C03-85F1-BFDE150FE2B2", 104, 1317822876, "392753", 1317822876, "392753", "{\n}", "MASPETH                  ", "01 ONE FAMILY HOMES                        ", "137", "180000", "513440", "500000", "1600000" ]
+, [ 105, "817C724C-476A-4C52-AA69-F3398524A928", 105, 1317822876, "392753", 1317822876, "392753", "{\n}", "MASPETH                  ", "02 TWO FAMILY HOMES                        ", "154", "200000", "624884", "625000", "1250000" ]
+, [ 106, "86D5CCB0-2B8F-4447-8043-E323A3DDDE4F", 106, 1317822876, "392753", 1317822876, "392753", "{\n}", "MASPETH                  ", "03 THREE FAMILY HOMES                      ", "22", "249500", "749314", "770000", "999000" ]
+, [ 107, "71A84C6B-43B6-43BD-8FEA-380F6AF1FC54", 107, 1317822876, "392753", 1317822876, "392753", "{\n}", "MIDDLE VILLAGE           ", "01 ONE FAMILY HOMES                        ", "159", "170000", "540212", "530000", "1315000" ]
+, [ 108, "C179B0E1-61DA-40B1-853D-886C3EF805DD", 108, 1317822876, "392753", 1317822876, "392753", "{\n}", "MIDDLE VILLAGE           ", "02 TWO FAMILY HOMES                        ", "79", "175000", "622330", "610000", "987702" ]
+, [ 109, "083BCFEB-E8C6-4F3B-B1B9-4671E570FC4E", 109, 1317822876, "392753", 1317822876, "392753", "{\n}", "MIDDLE VILLAGE           ", "03 THREE FAMILY HOMES                      ", "28", "315000", "753609", "760000", "1141000" ]
+, [ 110, "EDBEC859-FFE3-409B-B30A-9529AF420540", 110, 1317822876, "392753", 1317822876, "392753", "{\n}", "NEPONSIT                 ", "01 ONE FAMILY HOMES                        ", "18", "225000", "1044933", "837500", "3700000" ]
+, [ 111, "3B0215DA-E019-4748-8104-5C105BBA1D73", 111, 1317822876, "392753", 1317822876, "392753", "{\n}", "NEPONSIT                 ", "02 TWO FAMILY HOMES                        ", "2", "650000", "865000", "865000", "1080000" ]
+, [ 112, "1CA697E9-6888-45E8-A687-76A35E56511D", 112, 1317822876, "392753", 1317822876, "392753", "{\n}", "OAKLAND GARDENS          ", "01 ONE FAMILY HOMES                        ", "57", "400000", "719538", "699000", "1800000" ]
+, [ 113, "5BB94DFF-DA57-46EB-A582-BDC6305E0E5A", 113, 1317822876, "392753", 1317822876, "392753", "{\n}", "OAKLAND GARDENS          ", "02 TWO FAMILY HOMES                        ", "13", "200000", "882871", "960000", "1130000" ]
+, [ 114, "5C3D476F-0A93-4B65-B91A-D71B11084FA2", 114, 1317822876, "392753", 1317822876, "392753", "{\n}", "OAKLAND GARDENS          ", "03 THREE FAMILY HOMES                      ", "2", "840000", "852500", "852500", "865000" ]
+, [ 115, "AD1A7AD1-E1B3-469E-9152-56F223486183", 115, 1317822876, "392753", 1317822876, "392753", "{\n}", "OZONE PARK               ", "01 ONE FAMILY HOMES                        ", "212", "150000", "439442", "439950", "850000" ]
+, [ 116, "234C519F-9EED-4EDA-BB27-F2C8DC8B86B8", 116, 1317822876, "392753", 1317822876, "392753", "{\n}", "OZONE PARK               ", "02 TWO FAMILY HOMES                        ", "280", "150000", "572625", "584000", "1080000" ]
+, [ 117, "E9529C03-84C1-4392-A4B1-5003B9748D00", 117, 1317822876, "392753", 1317822876, "392753", "{\n}", "OZONE PARK               ", "03 THREE FAMILY HOMES                      ", "29", "330000", "634011", "650000", "857000" ]
+, [ 118, "88C73F1A-3FBB-49B4-A648-1E8DA5B8568F", 118, 1317822876, "392753", 1317822876, "392753", "{\n}", "QUEENS VILLAGE           ", "01 ONE FAMILY HOMES                        ", "473", "150000", "449115", "450000", "860000" ]
+, [ 119, "E0CEFF00-61F8-40F2-9EB5-7DA4E162D2B4", 119, 1317822876, "392753", 1317822876, "392753", "{\n}", "QUEENS VILLAGE           ", "02 TWO FAMILY HOMES                        ", "127", "250000", "556937", "565000", "812000" ]
+, [ 120, "1A63AAA7-C3C3-4271-ABAC-1D8504E3DDAB", 120, 1317822876, "392753", 1317822876, "392753", "{\n}", "QUEENS VILLAGE           ", "03 THREE FAMILY HOMES                      ", "6", "399990", "623915", "630000", "768500" ]
+, [ 121, "2143648E-832A-429C-907B-DD071E1BB2C9", 121, 1317822876, "392753", 1317822876, "392753", "{\n}", "REGO PARK                ", "01 ONE FAMILY HOMES                        ", "77", "300000", "635596", "593000", "999900" ]
+, [ 122, "A738D73A-11CB-49B3-BEC3-B93CF601C003", 122, 1317822876, "392753", 1317822876, "392753", "{\n}", "REGO PARK                ", "02 TWO FAMILY HOMES                        ", "31", "250000", "776838", "670000", "2300000" ]
+, [ 123, "6DAFB7AA-ADE5-4DB5-BEEC-2E4C88BC9738", 123, 1317822876, "392753", 1317822876, "392753", "{\n}", "REGO PARK                ", "03 THREE FAMILY HOMES                      ", "11", "400000", "776300", "860000", "1200000" ]
+, [ 124, "65B0EE5B-01AB-42C6-8599-548F05E950DC", 124, 1317822876, "392753", 1317822876, "392753", "{\n}", "RICHMOND HILL            ", "01 ONE FAMILY HOMES                        ", "392", "200000", "488260", "475250", "1250000" ]
+, [ 125, "40BEE169-808E-4928-BF58-FD30ACF476B1", 125, 1317822876, "392753", 1317822876, "392753", "{\n}", "RICHMOND HILL            ", "02 TWO FAMILY HOMES                        ", "404", "166650", "609306", "620000", "2500000" ]
+, [ 126, "25DFA087-248D-48A3-AAED-591F911A7E9E", 126, 1317822876, "392753", 1317822876, "392753", "{\n}", "RICHMOND HILL            ", "03 THREE FAMILY HOMES                      ", "80", "445000", "723667", "735000", "921516" ]
+, [ 127, "1F9C4878-E37B-45FF-BD94-0AB81F0D449F", 127, 1317822876, "392753", 1317822876, "392753", "{\n}", "RIDGEWOOD                ", "01 ONE FAMILY HOMES                        ", "27", "155000", "429711", "442000", "735000" ]
+, [ 128, "8A66D05F-EC09-43BF-82D9-20566996F48B", 128, 1317822876, "392753", 1317822876, "392753", "{\n}", "RIDGEWOOD                ", "02 TWO FAMILY HOMES                        ", "156", "177000", "595582", "607350", "980000" ]
+, [ 129, "197EBBA6-1CD6-46F7-A28C-83F930F104AC", 129, 1317822876, "392753", 1317822876, "392753", "{\n}", "RIDGEWOOD                ", "03 THREE FAMILY HOMES                      ", "39", "405000", "686800", "680000", "1100000" ]
+, [ 130, "12E87A8D-B12F-4204-A19F-9521C3DFA04C", 130, 1317822876, "392753", 1317822876, "392753", "{\n}", "ROCKAWAY PARK            ", "01 ONE FAMILY HOMES                        ", "8", "240000", "446188", "396000", "767500" ]
+, [ 131, "C5D44952-D8DA-4232-8EFF-40854CFDC048", 131, 1317822876, "392753", 1317822876, "392753", "{\n}", "ROCKAWAY PARK            ", "02 TWO FAMILY HOMES                        ", "20", "350000", "599770", "594300", "940000" ]
+, [ 132, "DF253229-EFAE-451C-B564-D18214F576D2", 132, 1317822876, "392753", 1317822876, "392753", "{\n}", "ROCKAWAY PARK            ", "03 THREE FAMILY HOMES                      ", "15", "150000", "565533", "660000", "750000" ]
+, [ 133, "FE972677-711C-4DEA-BF24-294315411073", 133, 1317822876, "392753", 1317822876, "392753", "{\n}", "ROSEDALE                 ", "01 ONE FAMILY HOMES                        ", "322", "160000", "454084", "445000", "790000" ]
+, [ 134, "C2ACE903-AF9D-4112-846F-59C6D456BFCF", 134, 1317822876, "392753", 1317822876, "392753", "{\n}", "ROSEDALE                 ", "02 TWO FAMILY HOMES                        ", "233", "300000", "588396", "610000", "815000" ]
+, [ 135, "256C0484-A48A-49AB-B59B-30CB687C0F84", 135, 1317822876, "392753", 1317822876, "392753", "{\n}", "ROSEDALE                 ", "03 THREE FAMILY HOMES                      ", "13", "320000", "528871", "530000", "680000" ]
+, [ 136, "3BF64E56-F89D-4988-B7DB-7C112528FB33", 136, 1317822876, "392753", 1317822876, "392753", "{\n}", "SO. JAMAICA-BAISLEY PARK ", "01 ONE FAMILY HOMES                        ", "598", "150000", "384426", "375000", "785000" ]
+, [ 137, "2E68057C-5CED-499A-95BB-A15B1F2FA814", 137, 1317822876, "392753", 1317822876, "392753", "{\n}", "SO. JAMAICA-BAISLEY PARK ", "02 TWO FAMILY HOMES                        ", "270", "150000", "539358", "566750", "890000" ]
+, [ 138, "A459CC2C-852E-41A2-A798-0B085F3B36EC", 138, 1317822876, "392753", 1317822876, "392753", "{\n}", "SO. JAMAICA-BAISLEY PARK ", "03 THREE FAMILY HOMES                      ", "2", "357000", "451000", "451000", "545000" ]
+, [ 139, "E8AE3A27-3414-453E-803C-802BDFBD266B", 139, 1317822876, "392753", 1317822876, "392753", "{\n}", "SOUTH JAMAICA            ", "01 ONE FAMILY HOMES                        ", "423", "150000", "400398", "390000", "840000" ]
+, [ 140, "346F030C-1DF8-44CD-B391-B9AEDCBEE158", 140, 1317822876, "392753", 1317822876, "392753", "{\n}", "SOUTH JAMAICA            ", "02 TWO FAMILY HOMES                        ", "395", "153000", "520177", "550000", "795000" ]
+, [ 141, "3711B84D-5680-4933-9E73-ACF4C5B52320", 141, 1317822876, "392753", 1317822876, "392753", "{\n}", "SOUTH JAMAICA            ", "03 THREE FAMILY HOMES                      ", "41", "300000", "563950", "590000", "835000" ]
+, [ 142, "640D6ADB-E53E-4C17-B5AC-851B0128614A", 142, 1317822876, "392753", 1317822876, "392753", "{\n}", "SOUTH OZONE PARK         ", "01 ONE FAMILY HOMES                        ", "405", "165000", "461170", "450500", "985000" ]
+, [ 143, "7FFB90E6-1D5F-4C7E-B723-CD36842F6DAB", 143, 1317822876, "392753", 1317822876, "392753", "{\n}", "SOUTH OZONE PARK         ", "02 TWO FAMILY HOMES                        ", "293", "230000", "597374", "605000", "845000" ]
+, [ 144, "DDC64529-2704-4814-8E3D-B49B62DA0107", 144, 1317822876, "392753", 1317822876, "392753", "{\n}", "SOUTH OZONE PARK         ", "03 THREE FAMILY HOMES                      ", "13", "375000", "590669", "604000", "750000" ]
+, [ 145, "B9A86B69-344D-4F7C-BD13-7E0DC33B1AD9", 145, 1317822876, "392753", 1317822876, "392753", "{\n}", "SPRINGFIELD GARDENS      ", "01 ONE FAMILY HOMES                        ", "392", "150000", "424567", "411000", "1275000" ]
+, [ 146, "D6BE990C-C556-4C4C-A304-ADA1584E6121", 146, 1317822876, "392753", 1317822876, "392753", "{\n}", "SPRINGFIELD GARDENS      ", "02 TWO FAMILY HOMES                        ", "288", "170000", "555555", "584000", "715000" ]
+, [ 147, "6B6113A2-E21B-48D4-9282-ACB3486B0B16", 147, 1317822876, "392753", 1317822876, "392753", "{\n}", "SPRINGFIELD GARDENS      ", "03 THREE FAMILY HOMES                      ", "1", "650000", "650000", "650000", "650000" ]
+, [ 148, "D312C106-987B-42FD-B2ED-4BACF598B239", 148, 1317822876, "392753", 1317822876, "392753", "{\n}", "ST. ALBANS               ", "01 ONE FAMILY HOMES                        ", "513", "150000", "419816", "416000", "990000" ]
+, [ 149, "85EC0F30-067A-4B5D-812D-0510062E42D7", 149, 1317822876, "392753", 1317822876, "392753", "{\n}", "ST. ALBANS               ", "02 TWO FAMILY HOMES                        ", "193", "250000", "514794", "535000", "700000" ]
+, [ 150, "ECE9B258-54C7-4554-933A-A06006CEB082", 150, 1317822876, "392753", 1317822876, "392753", "{\n}", "ST. ALBANS               ", "03 THREE FAMILY HOMES                      ", "9", "520000", "672349", "665000", "790500" ]
+, [ 151, "9E466C5F-B9E7-4CC4-AFF9-90070645B068", 151, 1317822876, "392753", 1317822876, "392753", "{\n}", "SUNNYSIDE                ", "01 ONE FAMILY HOMES                        ", "24", "330000", "606229", "600000", "821000" ]
+, [ 152, "B9D7AF13-7293-4ED8-A358-063C6DE50971", 152, 1317822876, "392753", 1317822876, "392753", "{\n}", "SUNNYSIDE                ", "02 TWO FAMILY HOMES                        ", "49", "200000", "708742", "705000", "960000" ]
+, [ 153, "5C2A8386-BDDE-43A6-AE31-A6D98347B90F", 153, 1317822876, "392753", 1317822876, "392753", "{\n}", "SUNNYSIDE                ", "03 THREE FAMILY HOMES                      ", "9", "617500", "794333", "799000", "900500" ]
+, [ 154, "84549BEA-6DAD-4AFB-A622-08A19B07D08B", 154, 1317822876, "392753", 1317822876, "392753", "{\n}", "WHITESTONE               ", "01 ONE FAMILY HOMES                        ", "163", "154000", "785225", "670000", "2404000" ]
+, [ 155, "7AD7D052-0ECF-48FD-A0BC-6127BE662C3C", 155, 1317822876, "392753", 1317822876, "392753", "{\n}", "WHITESTONE               ", "02 TWO FAMILY HOMES                        ", "58", "260000", "734300", "745000", "1330000" ]
+, [ 156, "194DEC8F-F887-46E6-8457-849A6FD9EC47", 156, 1317822876, "392753", 1317822876, "392753", "{\n}", "WHITESTONE               ", "03 THREE FAMILY HOMES                      ", "8", "650000", "807500", "850000", "930000" ]
+, [ 157, "E58A44A3-5E77-45DD-B86B-B66E2D31C405", 157, 1317822876, "392753", 1317822876, "392753", "{\n}", "WOODHAVEN                ", "01 ONE FAMILY HOMES                        ", "211", "185000", "453032", "440000", "875000" ]
+, [ 158, "E283FD4A-5DE4-43C3-93EC-B559E60F0E11", 158, 1317822876, "392753", 1317822876, "392753", "{\n}", "WOODHAVEN                ", "02 TWO FAMILY HOMES                        ", "210", "219000", "611606", "610000", "850000" ]
+, [ 159, "7CB5ADFC-D726-4C49-AB17-A639C2387E4B", 159, 1317822876, "392753", 1317822876, "392753", "{\n}", "WOODHAVEN                ", "03 THREE FAMILY HOMES                      ", "47", "189100", "673903", "689000", "850000" ]
+, [ 160, "77E9694F-315B-4C39-A3AC-6130E6373E5B", 160, 1317822876, "392753", 1317822876, "392753", "{\n}", "WOODSIDE                 ", "01 ONE FAMILY HOMES                        ", "40", "250000", "614678", "590000", "1300000" ]
+, [ 161, "5315B591-5F60-4744-92B9-49EA18976654", 161, 1317822876, "392753", 1317822876, "392753", "{\n}", "WOODSIDE                 ", "02 TWO FAMILY HOMES                        ", "85", "300000", "727612", "750000", "990000" ]
+, [ 162, "19BE14D9-D6A5-4600-A763-368E6A555C7A", 162, 1317822876, "392753", 1317822876, "392753", "{\n}", "WOODSIDE                 ", "03 THREE FAMILY HOMES                      ", "32", "170423", "831220", "862000", "1250000" ]
+ ]
+}
