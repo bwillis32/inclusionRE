@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django_extensions',
     'rest_framework',
+    'appreciation',
 ]
 
 REST_FRAMEWORK = {
@@ -86,6 +87,11 @@ DATABASES = {
         'default': dj_database_url.parse('postgres://localhost:5432/realestatedb_001')
 }
 
+
+GRAPH_MODELS = {
+    'all_applications':True,
+    'group_models':True,
+ }
 
 # Password validation
 # https://docs.djangoproject.com/en/1.9/ref/settings/#auth-password-validators
