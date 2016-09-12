@@ -4,8 +4,8 @@ This is a Django based real estate API.
 
 ## Setup
 
-1.
-2.
+*1.
+*2.
 3.
 4.
 
