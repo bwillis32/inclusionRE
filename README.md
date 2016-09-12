@@ -1,10 +1,12 @@
-## Queens Real Estate
+## Django InclusionRE
 
-#Replace sample readme below with actual content!!
+This is a Django based real estate API.
 
-## Synopsis
+## Setup
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+###Requirements
+
+
 
 ## Code Example
 
