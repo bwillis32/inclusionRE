@@ -4,7 +4,7 @@ This is a Django based real estate API.
 
 ## Setup
 
-1. Python 2.7+
+1. [Python 2.7+](www.python.org)
 2. Django 1.8
 3. PIP
 4. Anaconda
