@@ -4,10 +4,8 @@ This is a Django based real estate API.
 
 ## Setup
 
-*1.
-*2.
-3.
-4.
+1. Python 2.7
+2. Django 1.8
 
 ###Requirements
 
