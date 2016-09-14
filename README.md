@@ -46,4 +46,4 @@ Let people know how they can dive into the project, include important links to t
 
 A short snippet describing the license (MIT, Apache, etc.)
 
-![inclusionRE](inclusion.dot)
+![inclusionRE](./inclusion.dot)
