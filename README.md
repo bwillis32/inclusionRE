@@ -6,7 +6,7 @@ This is a Django based real estate API.
 
 ###Requirements
 
-1. [Python 2.7+](www.python.org)
+1. Python 2.7+
 2. [Django 1.8](www.djangoproject.com)
 3. [pip](https://pip.pypa.io/en/stable/installing/)
 4. [Anaconda](http://conda.pydata.org/docs/)
