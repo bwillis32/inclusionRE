@@ -8,7 +8,7 @@ This is a Django based real estate API.
 
 1. [Python 2.7+](www.python.org)
 2. [Django 1.8](www.djangoproject.com)
-3. [PIP](pip.pypa.io)
+3. [pip](https://pip.pypa.io/en/stable/installing/)
 4. [Anaconda](http://conda.pydata.org/docs/)
 5. [Postgres](www.postgresql.org)
 
