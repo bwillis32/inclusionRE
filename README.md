@@ -20,7 +20,7 @@ Show what the library does as concisely as possible, developers should be able t
 
 ## Motivation
 
-The motivation behind this project is to bring realtime real estate data to the Queens Real Estate Market.
+       The motivation behind this project is to bring realtime real estate data to the Queens Real Estate Market.
 
 ## ?Installation
 
