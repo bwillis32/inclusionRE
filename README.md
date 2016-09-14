@@ -40,7 +40,7 @@ Let people know how they can dive into the project, include important links to t
 
 ## License
 
-.Apache License Version 2.  January 2004
+Apache License Version 2.  January 2004
 
 ## inclusionRE
 
