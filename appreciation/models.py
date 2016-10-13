@@ -30,3 +30,23 @@ class Sales(models.Model):
   def __str__(self):
     return '{}'.format(self.neighborhood)
 
+
+class ZillowSales(models.Model):
+  id = models.AutoField(primar_key = True)
+  home_type = 
+  home_detail_link
+  propertyJ_size
+  last_sold_date
+  last_sold_price_currency
+  last_sold_price
+
+
+class ZillowPropDetails(models.Model):
+  id = models.AutoField(primar_key = True)
+  property_size
+  home_info
+  home_description
+  neighborhood
+
+
+
